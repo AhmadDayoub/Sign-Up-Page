@@ -1,4 +1,24 @@
-# Sliding Sign In & Sign Up Form Using React JS
 
-1. `npm install`
-2. `npm start`
+#  Sign-Up Page using React 18!.
+
+## Welcome! 
+Thanks for checking out this Application.
+
+### Links
+- Live site - [Live site](https://loquacious-jalebi-c07e2e.netlify.app/)
+
+## My process
+
+### Built with
+
+- React Js
+- scss
+- JSX
+
+
+
+## Author
+- [Ahmad Dayoub](https://www.linkedin.com/in/ahmad-dayoub-/)
+
+
+Ahmad Dayoub
